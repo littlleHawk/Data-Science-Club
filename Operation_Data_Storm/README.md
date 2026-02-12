@@ -1,1 +1,6 @@
-# Data-Science-Club
+# Operation Data Storm
+
+The zip file contains:
+  * A Data doc PDF detailing the contents of each `.csv` file
+  * A cleaning r script if you want to take a peek into how the original files were cleaned *Note: Since there is no access to the original files, this script will not run nicely for you*
+  * Data! 
